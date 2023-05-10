@@ -2,9 +2,9 @@
 title: "Undergraduate Courses"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "University Name, Department"
-date: 2021
+date: 2021-04-21
 location: "City, Country"
 ---
 
