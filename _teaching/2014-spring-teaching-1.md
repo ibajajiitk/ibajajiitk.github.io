@@ -9,13 +9,7 @@ location: "City, Country"
 ---
 
 CHE211A: Fluid Mechanics and its Applications (Instructor)
+======
+
 CHE453A: Chemical Process Design (Instructor)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
