@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Group Page"
+title                    : "Group Name"
 title_separator          : "-"
 name                     : &name "Ishan Bajaj"
 description              : &description "Assistant Professor, Department of Chemical Engineering, IIT Kanpur"
