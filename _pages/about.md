@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Dr Ishan Bajaj is an Assistant Professor in Chemical Engineering at IIT Kanpur. His research interests include Process systems engineering, Nonlinear optimization, Technoeconomic and life-cycle analyses, Energy system modeling, Operations research.[GitHub pages](https://pages.github.com)
+Dr Ishan Bajaj is an Assistant Professor in Chemical Engineering at IIT Kanpur. His research interests include Process systems engineering, Nonlinear optimization, Technoeconomic and life-cycle analyses, Energy system modeling, Operations research.
+(/images/editing-talk.png)
 
 A data-driven personal website
 ======
