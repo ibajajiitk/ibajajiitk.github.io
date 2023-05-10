@@ -83,12 +83,12 @@ author:
   name             : "Dr. Ishan Bajaj"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Department of Chemical Engineering, IIT Kanpur"
-  location         : "Location"
+  location         : "607, ESB-II"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=JPcvqzsAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ishan-Bajaj-2"
   uri              :
   bitbucket        :
   codepen          :
