@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JPcvqzsAAAAJ&hl=en&oi=ao"
-  email            :  "ibajaj@iitk.ac.in"
+  Email: ibajaj@iitk.ac.in            : 
   researchgate     : "https://www.researchgate.net/profile/Ishan-Bajaj-2"
   uri              :
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  CV               : "files/CV_Ishan.pdf"
+  CV               : "https://ibajajiitk.github.io/files/CV_Ishan.pdf"
   
 
 # Reading Files
