@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ishan Bajaj"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV](https://ibajajiitk.github.io/files/CV_Ishan.pdf)
 
 Education
 ======
