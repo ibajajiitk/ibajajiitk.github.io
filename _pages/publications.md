@@ -42,3 +42,6 @@ author_profile: true
 
 - I. Bajaj, X. Peng, C. T. Maravelias. [Material Screening for Thermochemical Energy Storage in Solar Power Systems](https://www.sciencedirect.com/science/article/abs/pii/B9780323885065500292). Computer Aided Chemical Engineering, 2021. 
 - I. Bajaj, M. M. F. Hasan. [A Projection-based, Data-Driven Method for High-Dimensional Black-Box Optimization](https://www.sciencedirect.com/science/article/abs/pii/B9780444642417501579). Computer Aided Chemical Engineering, 2018. 
+- I. Bajaj, M. M. F. Hasan. [Novel Derivative-free optimization method based on single dimension projection](https://folk.ntnu.no/skoge/prost/proceedings/focapo-cpc-2017/FOCAPO CPC%202017%20Contributed%20Papers/64_FOCAPO_Contributed.pdf). Proceedings of FOCAPO/CPC, 2017. 
+- I. Bajaj, M. M. F. Hasan. [Effective Sampling, Modeling and Optimization of Constrained Black-box Problems](https://www.sciencedirect.com/science/article/abs/pii/B9780444634283500977). Computer Aided Chemical Engineering, 2016. 
+- S. Kolluri, I. Bajaj, M. Bhushan. [Sensor Network Design for Efficient Fault Diagnosis and Signed Digraph Update](https://www.sciencedirect.com/science/article/abs/pii/B9780444634283500977). IFAC Proceedings Volumes, 2013. 
