@@ -13,3 +13,4 @@ author_profile: true
 ## 2020
 - I. Bajaj, M. M. F. Hasan. [Global dynamic optimization using edge-concave underestimator] (https://link.springer.com/article/10.1007/s10898-020-00883-2). Journal of Global Optimization, 2020. 
 - I. Bajaj, M. M. F. Hasan. (https://link.springer.com/article/10.1007/s11590-019-01421-0) (https://link.springer.com/article/10.1007/s11590-019-01421-0). Optimization Letters, 2020. 
+- H. Chang, I. Bajaj, G. W. Huber, C. T. Maravelias, J. A. Dumesic. [Catalytic strategy for conversion of fructose to organic dyes, polymers, and liquid fuels] (https://pubs.rsc.org/en/content/articlehtml/2020/gc/d0gc01576h). Green Chemistry, 2020. 
