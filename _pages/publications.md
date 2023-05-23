@@ -36,4 +36,8 @@ author_profile: true
 
 # Book Chapters 
 
-- I. Bajaj, S. S. Iyer, M. M. F. Hasan. [Black-Box Optimization: Methods and Applications](https://link.springer.com/chapter/10.1007/978-3-030-66515-9_2). In: P. M. Pardalos, V. Rasskazova, M. N. Vrahatis (eds), Black Box Optimization, Machine Learning, and No-Free Lunch Theorems. Springer Optimization and Its Applications, vol 170. Springer, Cham. 
+- I. Bajaj, A. Arora, M. M. F. Hasan. [Black-Box Optimization: Methods and Applications](https://link.springer.com/chapter/10.1007/978-3-030-66515-9_2). In: P. M. Pardalos, V. Rasskazova, M. N. Vrahatis (eds), Black Box Optimization, Machine Learning, and No-Free Lunch Theorems. Springer Optimization and Its Applications, vol 170. Springer, Cham. 
+
+# Conference Proceedings 
+
+- I. Bajaj, X. Peng, C. T. Maravelias. [Material Screening for Thermochemical Energy Storage in Solar Power Systems](https://www.sciencedirect.com/science/article/abs/pii/B9780323885065500292). 
