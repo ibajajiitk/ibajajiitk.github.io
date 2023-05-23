@@ -40,4 +40,5 @@ author_profile: true
 
 # Conference Proceedings 
 
-- I. Bajaj, X. Peng, C. T. Maravelias. [Material Screening for Thermochemical Energy Storage in Solar Power Systems](https://www.sciencedirect.com/science/article/abs/pii/B9780323885065500292). 
+- I. Bajaj, X. Peng, C. T. Maravelias. [Material Screening for Thermochemical Energy Storage in Solar Power Systems](https://www.sciencedirect.com/science/article/abs/pii/B9780323885065500292). Computer Aided Chemical Engineering, 2021. 
+- I. Bajaj, M. M. F. Hasan. [A Projection-based, Data-Driven Method for High-Dimensional Black-Box Optimization](https://www.sciencedirect.com/science/article/abs/pii/B9780444642417501579). Computer Aided Chemical Engineering, 2018. 
