@@ -33,3 +33,7 @@ author_profile: true
 ## 2017 
 
 - S. S. Iyer, I. Bajaj, M. M. F. Hasan. [Integrated Carbon Capture and Conversion To Produce Syngas: Novel Process Design, Intensification, and Optimization](https://pubs.acs.org/doi/full/10.1021/acs.iecr.7b01688). Industrial and Engineering Chemistry Research, 2017.
+
+# Book Chapters 
+
+- I. Bajaj, S. S. Iyer, M. M. F. Hasan. [Black-Box Optimization: Methods and Applications](https://link.springer.com/chapter/10.1007/978-3-030-66515-9_2). In: P. M. Pardalos, V. Rasskazova, M. N. Vrahatis (eds), Black Box Optimization, Machine Learning, and No-Free Lunch Theorems. Springer Optimization and Its Applications, vol 170. Springer, Cham. 
