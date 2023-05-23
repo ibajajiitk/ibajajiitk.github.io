@@ -28,4 +28,8 @@ author_profile: true
 - A. Arora, S. S. Iyer, I. Bajaj, M. M. F. Hasan. [Optimal Methanol Production via Sorption-Enhanced Reaction Process](https://pubs.acs.org/doi/full/10.1021/acs.iecr.8b02543). Industrial and Engineering Chemistry Research, 2018. 
 - I. Bajaj, S. S. Iyer, M. M. F. Hasan. [A trust region-based two phase algorithm for constrained black-box and grey-box optimization with infeasible initial point](https://www.sciencedirect.com/science/article/pii/S0098135417304404). Computers and Chemical Engineering, 2018. 
 - A. Arora, I. Bajaj, S. S. Iyer, M. M. F. Hasan. [Optimal synthesis of periodic sorption enhanced reaction processes with application to hydrogen production](https://www.sciencedirect.com/science/article/pii/S0098135418302576). Computers and Chemical Engineering, 2018. 
-- P. Balasubramanian, I. Bajaj, M. M. F. Hasan. [Simulation and optimization of reforming reactors for carbon dioxide utilization using both rigorous and reduced models](https://www.sciencedirect.com/science/article/pii/S2212982017304523) Journal of CO<sub>2<\sub> Utilization, 2018. 
+- P. Balasubramanian, I. Bajaj, M. M. F. Hasan. [Simulation and optimization of reforming reactors for carbon dioxide utilization using both rigorous and reduced models](https://www.sciencedirect.com/science/article/pii/S2212982017304523). Journal of CO<sub>2</sub> Utilization, 2018.
+
+## 2017 
+
+- S. S. Iyer, I. Bajaj, M. M. F. Hasan. [Integrated Carbon Capture and Conversion To Produce Syngas: Novel Process Design, Intensification, and Optimization](https://pubs.acs.org/doi/full/10.1021/acs.iecr.7b01688). Industrial and Engineering Chemistry Research, 2017.
