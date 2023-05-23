@@ -4,6 +4,12 @@ title: "Journal Articles"
 permalink: /publications/
 author_profile: true
 ---
+
+## 2023
+
+- I. Bajaj, X. Peng, C. T. Maravelias. [Material screening and property optimization for thermochemical energy storage in concentrated solar power]. Energy and Environmental Science (In review). 
+- L. Yu, L. Liang, I. Bajaj, K. Seabright, D. J. Keffer, I. N. Ivanov, H. Chen, S. Dai, A. J. Ragauskas, C. T. Maravelias, D. P. Harper [Tailored Mesoporous Structures of Lignin-Derived Nano-Carbons for Multiple Applications]. Carbon (In review). 
+
 ## 2022
 
 - L. Yu, K. Seabright, I. Bajaj, D. J. Keffer, D.M. Alonso, C. Hsieh, M. Li, H. Chen, S. Dai, Y. A. Gandomi, C. T. Maravelias, D. P. Harper. [Performance and economic analysis of organosolv softwood and herbaceous ligninsto activated carbons as electrode materials in supercapacitors](https://www.frontiersin.org/articles/10.3389/fenrg.2022.849949/full). Fronteirs in Energy Research, 2022.
