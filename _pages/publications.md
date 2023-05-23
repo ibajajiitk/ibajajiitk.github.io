@@ -3,8 +3,7 @@ layout: archive
 title: "Journal Articles"
 permalink: /publications/
 author_profile: true
----
----
+
 layout: archive
 title: "2022"
 permalink: /publications/
