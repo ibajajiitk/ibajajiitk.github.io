@@ -7,8 +7,8 @@ author_profile: true
 
 ## 2023
 
-- I. Bajaj, X. Peng, C. T. Maravelias. [Material screening and property optimization for thermochemical energy storage in concentrated solar power]. Energy and Environmental Science (In review). 
-- L. Yu, L. Liang, I. Bajaj, K. Seabright, D. J. Keffer, I. N. Ivanov, H. Chen, S. Dai, A. J. Ragauskas, C. T. Maravelias, D. P. Harper [Tailored Mesoporous Structures of Lignin-Derived Nano-Carbons for Multiple Applications]. Carbon (In review). 
+- I. Bajaj, X. Peng, C. T. Maravelias. Material screening and property optimization for thermochemical energy storage in concentrated solar power. Energy and Environmental Science (In review). 
+- L. Yu, L. Liang, I. Bajaj, K. Seabright, D. J. Keffer, I. N. Ivanov, H. Chen, S. Dai, A. J. Ragauskas, C. T. Maravelias, D. P. Harper. Tailored Mesoporous Structures of Lignin-Derived Nano-Carbons for Multiple Applications. Carbon (In review). 
 
 ## 2022
 
