@@ -21,6 +21,8 @@ Work Experience
 * Postdoctoral Research Associate, Princeton University, 2021-2022.
 * Postdoctoral Research Associate, University of Wisconsin-Madison, 2019-2021.
   
-Key Awards
+Awards and Honours
 ======
-* Currently signed in to 43 different slack teams
+* **2018** Distinguished Graduate Research Award, Department of Chemical Engineering, Texas A&M University
+* **2018** AIChE CAST Directors’ Student Presentation Award Finalist
+* **2018** Process Systems Engineering (PSE) 2018 Young Researcher Award
