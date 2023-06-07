@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-We are a computational research group in the Department of Chemical Engineering at Indian Institute of Technology, Kanpur. In our group, we develop and eoptimization models, methods and algorithms to address open problems in the area of energy, environment, sustainability, and operations research. Our interdisciplinary research lies at the interface of chemical engineering, applied mathematics, and data science. 
-
-
+We are a computational research group in the Department of Chemical Engineering at Indian Institute of Technology, Kanpur. Our interdisciplinary research lies at the interface of chemical engineering, applied mathematics, and data science. We develop and employ process systems engineering (PSE) approaches to address open problems in the area of energy, environment, and sustainability. 
 
 
 
