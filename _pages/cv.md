@@ -14,13 +14,13 @@ Education
 ======
 * B.Tech., Chemical Engineering, IIT Bombay, 2013
 * Ph.D., Chemical Engineering, Texas A&M University, 2019
+* Postdoctoral Research Associate, University of Wisconsin-Madison, 2019-2021
+* Postdoctoral Research Associate, Princeton University, 2021-2022
 
 Work Experience
 ======
 * Assistant Professor, IIT Roorkee, 2022-2023
-* Postdoctoral Research Associate, Princeton University, 2021-2022
-* Postdoctoral Research Associate, University of Wisconsin-Madison, 2019-2021
-  
+
 Awards and Honours
 ======
 * **2018** Distinguished Graduate Research Award, Department of Chemical Engineering, Texas A&M University
