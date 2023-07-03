@@ -16,5 +16,6 @@ Current areas of research interests include:
 * Decarbonization of the Indian energy system
 * Hyperparameter optimization of machine learning models
 * Optimization theory and algorithms for large-scale nonconvex problems 
+
 We are expanding our research group and I am looking for motivated Postdoctoral Research Fellows, Ph.D., Masters, and Dual-degree students. Interested candidates can reach out to me via email at ibajaj@iitk.ac.in.  
 
