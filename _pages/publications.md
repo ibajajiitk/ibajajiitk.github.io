@@ -10,7 +10,7 @@ author_profile: true
   
 ## 2023
  
-- L. Yu, L. Liang, I. Bajaj, K. Seabright, D. J. Keffer, I. N. Ivanov, H. Chen, S. Dai, A. J. Ragauskas, C. T. Maravelias, D. P. Harper. Tailored Mesoporous Structures of Lignin-Derived Nano-Carbons for Multiple Applications. Carbon (In review). 
+- L. Yu, L. Liang, I. Bajaj, K. Seabright, D. J. Keffer, I. N. Ivanov, H. Chen, S. Dai, A. J. Ragauskas, C. T. Maravelias, D. P. Harper. [Tailored Mesoporous Structures of Lignin-Derived Nano-Carbons for Multiple Applications](https://www.sciencedirect.com/science/article/pii/S0008622323005304). Carbon, 2023. 
 
 ## 2022
 
