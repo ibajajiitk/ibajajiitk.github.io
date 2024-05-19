@@ -1,3 +1,3 @@
-PhD Students 
-1. Nitin Dhanenjay R.
-2. 
+## PhD Students 
+- Nitin Dhanenjay R.
+- Vaishnavi Gupta
